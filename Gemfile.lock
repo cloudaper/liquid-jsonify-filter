@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    liquid-jsonify-filter (0.1.0)
+      json (~> 2.2)
+      liquid (~> 4.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.2.0)
+    liquid (4.0.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  liquid-jsonify-filter!
+
+BUNDLED WITH
+   2.0.1
