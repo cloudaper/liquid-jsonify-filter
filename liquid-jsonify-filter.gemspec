@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'liquid-jsonify-filter'
-  s.version     = '0.1.0'
+  s.version     = '0.1.1'
   s.summary     = 'Liquid filter to render hash as JSON string'
   s.author      = ['Cloudaper', 'Kryštof Korb']
   s.email       = ['hello@cloudaper.com', 'krystof@korb.cz']
