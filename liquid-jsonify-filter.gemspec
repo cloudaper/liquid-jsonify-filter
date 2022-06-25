@@ -9,6 +9,6 @@ Gem::Specification.new do |s|
 
   s.files       = ['lib/liquid-jsonify-filter.rb']
 
-  s.add_runtime_dependency 'liquid', '~> 4.0'
+  s.add_runtime_dependency 'liquid', '~> 5'
   s.add_runtime_dependency 'json', '~> 2.2'
 end
